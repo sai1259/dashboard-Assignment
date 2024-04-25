@@ -1,0 +1,41 @@
+.consultansts-section {
+    background-color: #ffffff;
+    margin-top: 12px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+.heading-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+.heading-container p {
+    font-weight: 600;
+    color: #576771;
+}
+.arrow-icons {
+    border: 1px solid #576771;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+table {
+    width: 1200px;
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+th, tr {
+    text-align: center;
+    padding: 10px;
+    color: #444b52;
+}
+td {
+    padding: 10px;
+}
+table, th, td {
+    border: 1px solid #d7d7d7;
+    border-collapse: collapse;
+}

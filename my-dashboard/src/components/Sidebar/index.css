@@ -1,0 +1,99 @@
+.sidebar-section {
+    padding-top: 1px;
+    width: 9%;
+    padding-left: 5px;
+    background-color: #fff;
+    height: 100vh;
+}
+.sidebar-section-p {
+    color: #c5c7c9;
+    font-weight: 600;
+    padding-left: 5px;
+    padding-bottom: 0px;
+}
+.dashboards-container {
+    margin: 5px;
+    margin-top: 2px;
+    margin-right: 10px;
+    background-color: #f6fafb;
+    box-shadow: 0px 0px 4px #333;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Sans-serif;
+}
+.dashboard-property {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    width: 100%;
+}
+.toggle-dashboard-property-middle {
+    background-color: #166534;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.toggle-dashboard-property-top {
+    background-color: #166534;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.toggle-dashboard-property-bottom {
+    background-color: #166534;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+hr {
+    width: 100%;
+    color: #7b8485;
+    margin: 0px;
+}
+.dashboard-icons {
+    color: #4e5b6e;
+    font-size: 26px;
+    font-weight: 600;
+    outline: 5px;
+    padding-top: 2px;
+    margin-bottom: 0px;
+}
+.toggle-dashboard-icons {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 600;
+    outline: 5px;
+    padding-top: 2px;
+    margin-bottom: 0px;
+}
+.dashboard-property-p {
+    font-weight: 600;
+    font-size: 14px;
+    color: #4e5b6e;
+    padding-bottom: 2px;
+    margin: 1px;
+}
+.toggle-dashboard-property-p {
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    padding-bottom: 2px;
+    margin: 1px;
+}

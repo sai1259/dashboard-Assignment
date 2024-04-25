@@ -1,0 +1,117 @@
+.different-diet-plans {
+    display: flex;
+    align-items: center;
+    background-color: #f0f4f5;
+    margin-top: 12px;
+}
+.diet-1 {
+    background-color: #fff;
+    margin-right: 25px;
+    padding: 10px;
+    border: 5px solid #f5dab5;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 220px;
+}
+.diet-2 {
+    background-color: #fff;
+    margin-right: 25px;
+    padding: 10px;
+    border: 5px solid #cad2f6;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 220px;
+}
+.diet-3 {
+    background-color: #fff;
+    margin-right: 25px;
+    padding: 10px;
+    border: 5px solid #c1f4d4;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 220px;
+}
+.diet-4 {
+    background-color: #fff;
+    margin-right: 25px;
+    padding: 10px;
+    border: 5px solid #e7daf5;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 220px;
+}
+.consultants-count {
+  padding: 10px;
+  border: 5px solid #f5dab5;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  display: flex;
+  align-items: center;
+
+}
+.heading {
+    color: #157d40;
+    font-weight: 600;
+    margin: 0px;
+    padding: 0px;
+}
+.score {
+    color: #576771;
+    margin: 0px;
+    padding: 0px;
+}
+.todady-period {
+    columns: #576771;
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+}
+.diet-icon-1 {
+    padding: 10px;
+    background-color: #f5dab5;
+    border-radius: 50%;
+    margin-left: 20px;
+    color: #6e717a;
+    font-size: 20px;
+}
+.diet-icon-2 {
+    background-color: #cad2f6;
+    border-radius: 50%;
+    margin-left: 20px;
+    color: #6e717a;
+    font-size: 16px;
+    padding: 10px;
+}
+.diet-icon-3 {
+    padding: 10px;
+    background-color: #c1f4d4;
+    border-radius: 50%;
+    margin-left: 20px;
+    color: #6e717a;
+    font-size: 20px;
+}
+.diet-icon-4 {
+    padding: 10px;
+    background-color: #e7daf5;
+    border-radius: 50%;
+    margin-left: 20px;
+    color: #6e717a;
+    font-size: 20px;
+}
